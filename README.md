@@ -3,12 +3,12 @@
 [![entries: completed][~completed]](https://github.com/NaNoGenMo/2023/issues?q=label%3Acompleted)
 [![entries: preview][~preview]](https://github.com/NaNoGenMo/2023/issues?q=label%3Apreview)
 [![issues: admin][~admin]](https://github.com/NaNoGenMo/2023/issues?q=label%3Aadmin)
-[![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot)
+[![mastodon: nanogenmobot][~mastodon]](https://botsin.space/@NaNoGenMoBot)
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
 [~preview]: https://img.shields.io/badge/entries-preview-c5def5.svg
 [~admin]: https://img.shields.io/badge/issues-admin-fef2c0.svg
-[~twitter]: https://img.shields.io/badge/twitter-NaNoGenMoBot-00aced.svg?logo=twitter
+[~mastodon]: https://img.shields.io/badge/mastodon-NaNoGenMoBot-00aced.svg?logo=mastodon
 
 National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://tinysubversions.com/twitter-archive/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
 
